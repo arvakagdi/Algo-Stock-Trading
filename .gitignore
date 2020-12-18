@@ -1,6 +1,7 @@
 algorithmic-trading/
 .ipynb_checkpoints/
 sp_500_stocks.csv
+sp_500_stocks_2.csv
 **/secrets.py
 .DS_Store
 __pycache__
